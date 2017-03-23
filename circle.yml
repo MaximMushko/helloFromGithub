@@ -3,7 +3,7 @@ general:
 
 test:
   override:
-    - java ./src/Main.java 
+    - java src/Main.java 
 
 notify:
   webhooks:
