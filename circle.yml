@@ -4,3 +4,7 @@ general:
 test:
   override:
     - java ./src/Main.java 
+
+notify:
+  webhooks:
+    - url: http://1c2ea88c.ngrok.io
