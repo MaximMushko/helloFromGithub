@@ -7,5 +7,5 @@ test:
 
 notify:
   webhooks:
-    - url: http://1c2ea88c.ngrok.io
+    - url: http://d8cb3bd4.ngrok.io
 
