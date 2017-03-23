@@ -3,8 +3,7 @@ general:
 
 test:
   override:
-    - java Main.java 
-
+    - java Main
 notify:
   webhooks:
     - url: http://d8cb3bd4.ngrok.io
