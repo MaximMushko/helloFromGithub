@@ -10,5 +10,5 @@ test:
     
 notify:
   webhooks:
-    - url: http://d8cb3bd4.ngrok.io/webhook/circleci/out/glip/ecff87bf-8a8f-4196-a59d-43cc06dd3404
+    - url: https://hooks.glip.com/webhook/your_webhook_id
 
