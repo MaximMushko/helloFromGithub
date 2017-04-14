@@ -7,8 +7,14 @@ java:
 test:
   override:
     - java Main
-    
+
 notify:
-  webhooks:
-    - url: https://hooks.glip.com/webhook/your_webhook_id
+   webhook:
+   -url:
+   - https://8b73aa92.ngrok.io/webhook/circleci/out/glip/ecff87bf-8a8f-4196-a59d-43cc06dd3404
+
+#notify:
+ # webhooks:
+  #  - url: https://hooks.glip.com/webhook/your_webhook_id
+
 
